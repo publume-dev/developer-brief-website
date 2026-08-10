@@ -1,0 +1,29 @@
+{
+  "url": "https://developer-brief.publume.dev/",
+  "name": "Developer Brief",
+  "description": "A bilingual daily developer briefing on software engineering changes, tools, and practices that affect real work.",
+  "tagline": "Daily software changes translated into useful action.",
+  "locale": "en",
+  "outputLanguages": [
+    "zh-CN",
+    "en"
+  ],
+  "defaultContentLanguage": "en",
+  "publisherName": "Publume Developer Desk",
+  "authorName": "Developer Brief",
+  "contactUrl": "",
+  "aiDisclosure": "",
+  "socialImageUrl": "",
+  "newsletterUrl": "",
+  "sponsorUrl": "",
+  "showTopics": true,
+  "showScore": false,
+  "showSources": true,
+  "footerText": "",
+  "presentation": {
+    "schemaVersion": 1,
+    "ads": {
+      "provider": "none"
+    }
+  }
+}
